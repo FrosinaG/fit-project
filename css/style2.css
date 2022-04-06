@@ -1,0 +1,48 @@
+@media screen and (max-width: 480px) {
+  .hero {
+    display: block;
+    width: 100%;
+    padding: 0;
+  }
+  .nav-list,
+  ul li {
+    display: block;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    font-size: 15px;
+  }
+
+  .fitness-quotes,
+  .fitness-quotes2,
+  .img-q,
+  .healthy,
+  .container,
+  .fit-contact{
+    display: block;
+    width: 100%;
+    text-align: center;
+ 
+  }
+  .left-f {
+    font-size: 20px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+  .logo,
+  .left,
+  .con,
+  .text-healthy,
+  .img-q {
+    width: 100%;
+  }
+  .list-quotes {
+    width: 80%;
+  }
+  .left-box,
+  .right-box{
+      width: 80%;
+  }
+}
